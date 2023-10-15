@@ -1,6 +1,5 @@
 # Hello there; welcome 👋🏾
-
-[!Linkedin Badge](https://img.shields.io/badge/-Akinkunmi2002-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akinkunmi-akinnitire-b44b1323a)](https://www.linkedin.com/in/akinkunmi-akinnitire-b44b1323a) [![Twitter Badge](https://img.shields.io/badge/-@Akinkunmi2002-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Akinkunmi2002)](https://twitter.com/Akinkunmi2002)
+[![Twitter Badge](https://img.shields.io/badge/-Akinkunmi2002-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akinkunmi-akinnitire-b44b1323a)](https://www.linkedin.com/in/akinkunmi-akinnitire-b44b1323a) [![Twitter Badge](https://img.shields.io/badge/-@Akinkunmi2002-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Akinkunmi2002)](https://twitter.com/Akinkunmi2002)
 
 Hello my name is Kunmi Akinnitire, I am a software developer
 I'm a passionate software developer with a knack for turning complex problems into elegant solutions.  I create technical content (on my [Blog](https://kunmi001.hashnode.dev/), build useful [open-source projects](https://github.com/akinkunmiak123), ...
