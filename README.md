@@ -7,7 +7,7 @@ I'm a passionate software developer with a knack for turning complex problems in
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 I’m versatile at JavaScript, Reactjs, HTML5, CSS3,Technical Writing and Nodejs.
+- 🌱 I’m versatile in front-end technologies, including JavaScript, Reactjs, HTML5, CSS3,Technical Writing and Nodejs.
 - 😊 I'm seeking involvement in open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://akinnitire.netlify.app/) and contact me by emailing tetisimiak@gmail.com.
